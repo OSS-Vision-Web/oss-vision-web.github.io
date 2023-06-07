@@ -8,10 +8,10 @@ description: >
 baseurl: ""
 url: ""
 permalink: pretty
-#favicon: /path/to/favicon.png
+# favicon: favicon.png
 # gh_sponsor: 
 #hide_share_buttons: true
-#theme_color: '#eeeeee'
+# theme_color: '#8b008b'
 #fixed_navbar: top
 #direction: one of <ltr, rtl, auto>, default: ltr
 
