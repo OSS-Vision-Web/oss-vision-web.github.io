@@ -1,6 +1,6 @@
 ---
 title: 井上テストサイトのタイトル 
-subtitle: OS4でのセミナーの成果 20230607-2234
+subtitle: OS4でのセミナーの成果 20230607-2241
 layout: page
 # callouts: home_callouts
 show_sidebar: true
