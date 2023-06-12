@@ -1,6 +1,6 @@
 ---
 title: 井上テストサイトのタイトル 
-subtitle: OS4でのセミナーの成果 20230608-1543
+subtitle: OS4でのセミナーの成果 20230612-0921
 layout: page
 # callouts: home_callouts
 show_sidebar: true
