@@ -1,6 +1,8 @@
-- name: Docs
+- name: ブログ
+  link: /blog/
+- name: お知らせ
   link: /docs/
-- name: Example Pages
+- name: リンク先
   link: /#
   dropdown:
     - name: Landing Page With Callouts
@@ -15,5 +17,3 @@
       link: /example-recipe/
     - name: Showcase
       link: /showcase/
-- name: Blog
-  link: /blog/
